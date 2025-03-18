@@ -11,7 +11,7 @@ Como este livro foi feito na licença CC BY-NC-SA 4.0 você pode distribuir com 
 
 O material didático (em PDF) já está disponível nos arquivos principais e na aba "Releases".
 
-Para compilar o código-fonte é necessário ter a versão ```2.25.20``` ou superior. Baixe o Lilypond, mova o diretório descomprimido para algum lugar que você não vá mexer e execute o programa. Se você vai compilar este projeto no Linux através do terminal, o comando padrão pode ser ```/usr/bin/lilypond ~/Downloads/MaterialExerciciosTonalidadesIntervalos/src/main.ly```.
+Para compilar o código-fonte é necessário ter a versão ```2.25.20``` ou superior. Baixe o Lilypond, mova o diretório descomprimido para algum lugar que você não vá mexer e execute o programa. Apenas a função principal já funciona; não precisa de nenhum argumento a mais.
 
 Entretanto, recomendo a todos os usuários (Windows, Macintosh ou Linux) a utilizarem o ```Frescobaldi```. Este programa é uma interface de desenvolvimento que implementa uma interface gráfica para o ```Lilypond```. Mesmo se for utilizar o ```Frescobaldi``` ainda é necessário ter o ```Lilypond``` instalado em seu computador.
 
