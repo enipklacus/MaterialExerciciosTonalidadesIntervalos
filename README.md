@@ -19,3 +19,9 @@ Por costume, eu sempre utilizo uma versão em desenvolvimento do ```Lilypond```.
 Para verificar a integridade dos arquivos do código-fonte (localizado no diretório "src"), execute o comando ```md5sum -c src.md5```.
 
 Para verificar a integridade do arquivo principal, execute o comando ```md5sum -c main.md5```.
+
+## A Corrigir
+
+Por algum motivo, o bloco ```bookpart``` parece impedir com que os marcadores de PDF (*bookmarks*) sejam exportados. O sumário funciona normalmente, redirecionando até a página em questão, mas não existe nenhuma entrada no menu de *bookmarks*.
+
+E é claro que muito provavelmente este código conseguiria ser otimizado com mais funções. Mas eu não sou desenvolvedor e ainda não sei desenvolver tão bem quanto necessário para implementar essas otimizações de código.
